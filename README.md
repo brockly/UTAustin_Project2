@@ -50,7 +50,10 @@ The dataset includes the following customer attributes:
 git clone [repository_url]
 ```
 
-2. Open the Jupyter notebook file provided ('''bash .ipynb''') in the repository and execute the Python cells sequentially to run the analysis.
+2. Open the Jupyter notebook file provided (
+   ```bash
+.ipynb
+```) in the repository and execute the Python cells sequentially to run the analysis.
 
 ---
 
