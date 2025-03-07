@@ -50,11 +50,11 @@ The dataset includes the following customer attributes:
 git clone [repository_url]
 ```
 
-2. Open the Jupyter notebook file provided in the repository and execute the Python cells sequentially to run the analysis.
+2. Open the Jupyter notebook file provided ('''.ipynb''') in the repository and execute the Python cells sequentially to run the analysis.
 
 ---
 
 **Author:** Alex Brockman
-**Course:** Machine Learning, Great Learning x UT Austin  
+**Course:** Machine Learning, Great Learning @ UT Austin  
 **Date:** April 2024
 
